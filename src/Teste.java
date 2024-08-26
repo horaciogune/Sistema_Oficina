@@ -11,7 +11,10 @@
 public class Teste {
     
     public static void main(String[] args) {
-        System.out.println(" Ola mundo vamos programar");
+        for (int i = 200; i <= 500; i+=50) {
+            
+         System.out.print(i+ " ");
     }
     
+}
 }
