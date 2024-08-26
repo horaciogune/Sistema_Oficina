@@ -13,7 +13,8 @@ public class Teste {
     public static void main(String[] args) {
         for (int i = 200; i <= 500; i+=50) {
             
-         System.out.print(i+ " ");
+         System.out.print(i+ " mau ");
+            
     }
     
 }
